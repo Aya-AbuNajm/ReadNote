@@ -22,4 +22,4 @@
  4. Criticism
  5. Success of others
  
-  [Aya's Github](https://github.com/Aya-AbuNajm)
+  [@Aya's Github](https://github.com/Aya-AbuNajm)
