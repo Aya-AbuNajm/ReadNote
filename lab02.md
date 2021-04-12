@@ -1,8 +1,8 @@
 # Growth Mindset
-### can open pathways to more creativity and possibility,and enable the setting of higher goals and more achievement.
+## can open pathways to more creativity and possibility,and enable the setting of higher goals and more achievement.
 
 # What is a growth mindset?
-### abilities can be developed through
+## abilities can be developed through
 ~~~
 * perseverance
 * effort
