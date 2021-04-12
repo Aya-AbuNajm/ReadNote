@@ -9,6 +9,6 @@
 * talent
 
 
-![image](https://www.nexus-education.com/wp-content/uploads/2019/06/continuum.png)
+![image](https://blog.cengage.com/wp-content/uploads/2020/11/blog-growth-mindset-1511130.png)
 
 [growth mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU)
