@@ -29,11 +29,11 @@ A growth mindset opens me up to more creativity and possibility, and I discover 
 ![pic](https://blog.cengage.com/wp-content/uploads/2020/11/blog-growth-mindset-1511130.png)
 A **growth mindset** means that you believe your mind and talents can be developed. A **fixed mindset** means that you believe intelligence is static—so if you’re not good at something, you might believe you’ll never be good at it.
 
-> video
+> Video
 [Growth Mindset vs. Fixed Mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU)
 
-## resources
+## Resources
 [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
-## contact me
+## Contact me
 [@Aya's Github](https://github.com/Aya-AbuNajm)
