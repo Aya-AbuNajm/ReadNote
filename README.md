@@ -1,14 +1,10 @@
-# Growth Mindset
-### can open pathways to more creativity and possibility,and enable the setting of higher goals and more achievement.
+# About Me 
+Aya Abu Najm , 26 years ago i'm an junior architect .
+#  Table of Contents
+NO | content 
+---|------
+01 | [read01](read-01.md)
+02 | [read02](read-02.md)
+03 | [lab02](lab02.md)
 
-# What is a growth mindset?
-### abilities can be developed through
-* perseverance
-* effort
-* intelligence
-* talent
 
-
-![image](https://blog.cengage.com/wp-content/uploads/2020/11/blog-growth-mindset-1511130.png)
-
-[growth mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU)
