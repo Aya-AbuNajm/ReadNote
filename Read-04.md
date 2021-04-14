@@ -40,6 +40,37 @@ css files The CSS enhances the HTML page with rules that state how the HTML cont
 ### JavaScript
 This is where we can change how the page behaves, adding interactivity. We will aim to keep as much of our JavaScript as possible in separate files
 
+> It is best to keep JavaScript code in its own JavaScript file. 
+![img](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/08/Js-Dom-Tree.png)
 
+## Javascript 
+
+* STATEMENTS 
+>JavaScript is case sensitive so timeNow means something different to TimeNow or TIMENOW.
+
+now if we would to talk about if statement it give a condition if it done it well do the statement if not it will out of the statement
+
+![jimage](https://www.javatpoint.com/images/core/if1.png)
+
+* COMMENTS 
+we can use // to write something we would not to share in user screen.
+
+## Are you know WHAT IS A VARIABLE? 
+Variables help us to save specific data and numbers to facilitate their use and make it easier for us to perform mathematical operations and enter data in them.
+Let's say, for example, that it is a storeg in which what is called is when we need it.
+![var img](https://slideplayer.com/8416522/26/images/slide_1.jpg)
+
+### RULES FOR NAMING VARIABLES 
+
+* The name must begin with a letter, dollar sign ($),or an 
+underscore (_). It must not start with a number. 
+* All variables are case sensitive.
+*The name can contain letters, numbers,But note that you must not use a dash(-) or a period (.) in a variable name. 
+* Use a name that describes the kind of information that the variable stores. 
+* You cannot use keywords or reserved words. Keywords are special words that tell the interpreter to do something.
+* If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word. 
+
+## contact us 
+[Aya's GitHub](https://github.com/Aya-AbuNajm)
 
 
