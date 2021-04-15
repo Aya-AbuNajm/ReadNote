@@ -6,5 +6,7 @@ NO | content
 01 | [MarkDown](Read-01.md)
 02 | [Git](Read-02.md)
 03 | [Growth Mindset](lab02.md)
-
+04 | [HTML PAGE](Read-04)
+05 | [Computer Architecture and Logic ](Read-04b)
+06 | [Operators and Loops in Javascript](Read-05)
 
