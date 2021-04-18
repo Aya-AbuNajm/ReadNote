@@ -1,8 +1,5 @@
 # Operators and Loops in Javascript
 
-
-
-
 ## comparison operators :evaluating conditions
 ![img01](https://www.miltonmarketing.com/wp-content/uploads/2018/04/javascriptcomparisonoperatorsimage041.jpg)
 
