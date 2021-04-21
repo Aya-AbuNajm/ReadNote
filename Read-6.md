@@ -1,3 +1,7 @@
+
+
+
+
 # WHAT IS A FUNCTION?
 Functions let you group a series of statements together to perform a specific task.
 
@@ -30,5 +34,30 @@ xceptions are events that occur during the execution of programs that disrupt th
 To call a method in Java, write the method's name followed by two parentheses () and a semicolon; The process of method calling is simple. When a program invokes a method, the program control gets transferred to the called method
 
 
+
+## Intro + Scripts
+
+Being able to change the content of an HTML page while it is loaded in rely on the ability to:
+Access the content of the page
+Modify the content of the page
+Program rules or instructions the browser can follow
+React to events triggered by the user or browser
+
+> A script is a series of instructions that a computer can follow to achieve a goal.
+
+1: DEFINE THE GOAL
+2: DESIGN THE SCRIPT
+3: CODE EACH STEP
+
+Every step for every task shown in a flowchart needs to be written in a language the computer can understand and follow.
+
+language and how it is used in web browsers.
+ you need to get to grips with the:
+• Vocabulary: The words that computers understand
+Syntax: How you put those words together to
+
+* A script is a series of instructions that the computer can follow in order to achieve a goal.
+* Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically.
+* To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).
 
 
