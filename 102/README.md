@@ -16,8 +16,8 @@ NO | project name
 
 NO | project name 
 ---|------
-01 | [ Introductory HTML and JavaScript](class-01.md)
-02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
+01 | 
+02 | 
 03 |
 04 | 
 05 | 
