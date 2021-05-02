@@ -40,6 +40,7 @@ the href attribute will contain the address for the page (either an absolute URL
 
 --------------
 ### Building blocks
+![img7](https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/06/Block-level-Inline-elements-in-html-df.jpg)
 * Block-level elements start on a new line.
 * Inline elements flow in between surrounding text.
 
@@ -84,4 +85,4 @@ the href attribute will contain the address for the page (either an absolute URL
 ![img4](https://gcallah.github.io/OOP/graphics/Chap8Diag7.png)
 
 
-[@aya github](https://github.com/Aya-AbuNajm)
+[@aya's github](https://github.com/Aya-AbuNajm)
